@@ -1,0 +1,32 @@
+<x_positions>
+    <quad0>
+        <x_offset0>
+            <X>0</X>
+        </x_offset0>
+    </quad0>
+    <quad1>
+        <x_offset1>
+            <X>660</X>
+        </x_offset1>
+    </quad1>
+    <quad2>
+        <x_offset2>
+            <X>1185</X>
+        </x_offset2>
+    </quad2>
+    <quad3>
+        <x_offset3>
+            <X>-300</X>
+        </x_offset3>
+    </quad3>
+    <quad4>
+        <x_offset4>
+            <X>330</X>
+        </x_offset4>
+    </quad4>
+    <quad5>
+        <x_offset5>
+            <X>-650</X>
+        </x_offset5>
+    </quad5>
+</x_positions>
